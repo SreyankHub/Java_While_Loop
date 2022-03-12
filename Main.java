@@ -11,9 +11,10 @@ public class Main {
 
           System.out.print("What is Your name:");
           input = scanner.nextLine();
-          System.out.print("You Have Escaped The Wile Loop:");
-          System.out.print(input);
-
       }
+
+        System.out.print("You Have Escaped The Wile Loop:");
+        System.out.print(input);
+
     }
 }
